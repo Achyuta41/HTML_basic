@@ -6,6 +6,7 @@ This project is a beginner-friendly HTML tutorial repository, designed to help u
 
 - img_XX image folder
 - web_XX coressponding wesite folder
+     XX refer to the project title 
 
 
 ## 🚀 Getting Started
