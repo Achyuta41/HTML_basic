@@ -1,0 +1,15 @@
+# HTML Tutorial Project
+
+This project is a beginner-friendly HTML tutorial repository, designed to help understand and practice the basics of HTML concepts.
+
+## 📁 Project Structure
+
+- img_XX image folder
+- web_XX coressponding wesite folder
+
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/html-tutorial.git
