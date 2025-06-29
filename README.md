@@ -13,4 +13,4 @@ This project is a beginner-friendly HTML tutorial repository, designed to help u
 
 1. Clone the repository:
    ```bash
-  https://github.com/Achyuta41/HTML_basic.git
+        https://github.com/Achyuta41/HTML_basic.git
